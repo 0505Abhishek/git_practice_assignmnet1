@@ -7,4 +7,4 @@ for(let i=2;i<a/2;i++)
  }
 }
 (count==0) ? console.log("prime") : console.log("Not prime");
-
+ 
